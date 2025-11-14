@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<!-- OpenAI API Configuration -->
+	<key>OPENAI_API_KEY</key>
+	<string>your-openai-api-key-here</string>
+
+	<!-- Optional: Custom API Base URL -->
+	<key>OPENAI_BASE_URL</key>
+	<string>https://api.openai.com/v1</string>
+
+	<!-- Optional: Organization ID -->
+	<key>OPENAI_ORG_ID</key>
+	<string></string>
+</dict>
+</plist>
